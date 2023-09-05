@@ -1,4 +1,4 @@
-https://camo.githubusercontent.com/5de8f71761f71b598661b712e3f755a08b356f357bc9c222c9632714b92dbad7/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a6e57515f55354e4b45664e6547435466685f322d4d772e676966
+<img src="https://pin.it/4nNoMi2">
 <h1 align="center">Hi 👋, I'm Elnur Qasımov</h1>
 <h3 align="center">Front End Developer</h3>
 
