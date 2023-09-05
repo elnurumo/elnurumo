@@ -1,4 +1,4 @@
-<img src="https://pin.it/4nNoMi2">
+[![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://pin.it/4nNoMi2))
 <h1 align="center">Hi 👋, I'm Elnur Qasımov</h1>
 <h3 align="center">Front End Developer</h3>
 
