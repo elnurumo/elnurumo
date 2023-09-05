@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Elnur Qasımov</h1>
 <h3 align="center">Front End Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elnurumo&label=Profile%20views&color=0e75b6&style=flat" alt="elnurumo" /> </p>
+
 - 🔭 I’m currently working on **Portfolio**
 
 - 🌱 I’m currently learning **Next.js**
@@ -23,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elnurumo&show_icons=true&locale=en" alt="elnurumo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elnurumo&" alt="elnurumo" /></p>
+
