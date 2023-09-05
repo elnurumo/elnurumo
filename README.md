@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.pinimg.com/564x/58/03/65/5803657a9037065926ad93e01ed812ac.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fi-am-programmer-i-write-code-i-will-fix-your-computer-funny-programmer-quote_37807625.htm&psig=AOvVaw0D6RzY8j7vDg90OmvDUnyN&ust=1694009803965000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLC5vrjUk4EDFQAAAAAdAAAAABAF))
+[![MasterHead](https://camo.githubusercontent.com/754dbf2e365fea5318616ed8ff17144ad564ddd1c1e04e6991fa691336aac854/68747470733a2f2f6769746875622e626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f31322f3130323339333331302d30373437386238302d336638642d313165622d383465622d3339326435353565626432392e706e673f726573697a653d31323030253243363330)
 <h1 align="center">Hi 👋, I'm Elnur Qasımov</h1>
 <h3 align="center">Front End Developer</h3>
 
