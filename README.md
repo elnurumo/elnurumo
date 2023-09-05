@@ -1,4 +1,4 @@
-![MasterHead](https://pin.it/7ITF0CP)
+![MasterHead](https://pin.it/5b5eA33)
 <h1 align="center">Hi 👋, I'm Elnur Qasımov</h1>
 <h3 align="center">Front End Developer</h3>
 
