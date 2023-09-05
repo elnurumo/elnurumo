@@ -1,4 +1,4 @@
-[![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://pin.it/4nNoMi2))
+[![MasterHead](https://i.pinimg.com/564x/58/03/65/5803657a9037065926ad93e01ed812ac.jpg)
 <h1 align="center">Hi 👋, I'm Elnur Qasımov</h1>
 <h3 align="center">Front End Developer</h3>
 
