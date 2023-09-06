@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **JavaScript, HTML/CSS/SCSS, Bootstrap, C#, .NET Core, MsSql, React, MsSql**
+- 💬 Ask me about **JavaScript, HTML/CSS/SCSS, Bootstrap, C#, .NET Core, MsSql, React**
 
 - 📫 How to reach me **elnurqasimovv2002@gmail.com**
 
